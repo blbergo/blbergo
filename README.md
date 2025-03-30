@@ -1,13 +1,16 @@
 
 # Hi, I'm Bryan! 👋
 
-
 ## 🚀 About Me
-I'm a full stack developer, GDSC Lead and CS/DS student at California State Polytechnic University, Pomona.
-
+I'm an intern at Microsoft and CS/DS student at California State Polytechnic University, Pomona.
 
 ## 🛠 Skills
-Python, Java, HTML, CSS, Javascript, Typescript, Next.js, Gatsby, Vue, Expo, Express, Supabase, Firebase, GCP, Vecel
+### Languages
+Java, Python, HTML, CSS, Typescript, C++, C#
+### Frameworks and Tools
+Next.js, Remix, Express, Hono.js, Pandas, Terraform, K3s, ArgoCD
+### Providers
+Openstack, GCP, Supabase, Vercel, Cloudflare
 
 ## 🔗 Links
 
