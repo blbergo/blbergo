@@ -2,7 +2,7 @@
 # Hi, I'm Bryan! 👋
 
 ## 🚀 About Me
-I'm an intern at Microsoft and CS/DS student at California State Polytechnic University, Pomona.
+I'm a Full Stack SWE intern at Microsoft and CS/DS student at California State Polytechnic University, Pomona.
 
 ## 🛠 Skills
 ### Languages
